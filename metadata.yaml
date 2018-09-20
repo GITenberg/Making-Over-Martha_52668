@@ -1,0 +1,26 @@
+_repo: Making-Over-Martha_52668
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lippmann, Julie M.
+    alias: Lippmann, Julie Mathilde
+    birthdate: 1864
+    deathdate: 1952
+    gutenberg_agent_id: '5716'
+    url: http://www.gutenberg.org/2009/agents/5716
+description: ''
+gutenberg_issued: '2016-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- GITenberg
+title: Making Over Martha
+url: http://www.gutenberg.org/ebooks/52668
